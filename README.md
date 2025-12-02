@@ -1,4 +1,4 @@
-# UHCMeetup (2015/17) – UHC Meetup Minecraft Plugin
+# UHCMeetup  – UHC Meetup Minecraft Plugin
 
 **Original Features (by previous developer, social/contact unknown)**
 
